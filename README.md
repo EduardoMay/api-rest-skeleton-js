@@ -8,7 +8,7 @@
 ## Install instructions
 
 -   Clone repository
--   cd `api-rest-skeleton`
+-   cd `api-rest-skeleton-js`
 -   Run `npm install`
 -   Execute in the terminal `npm run dev`
 
